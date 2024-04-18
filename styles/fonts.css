@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Arial';
+    src: url('/public/fonts/ArialMT.woff2') format('woff2'),
+    url('/public/ArialMT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HvDTrial Palast Poster';
+    src: url('/public/fonts/HvDTrial_PalastPoster-Light.woff2') format('woff2'),
+    url('/public/fonts/HvDTrial_PalastPoster-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HvDTrial Palast Poster';
+    src: url('/public/fonts/HvDTrial_PalastPoster-Regular.woff2') format('woff2'),
+    url('/public/fonts/HvDTrial_PalastPoster-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
